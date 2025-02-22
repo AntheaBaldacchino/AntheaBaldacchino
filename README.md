@@ -5,6 +5,7 @@
 📫 Reach me where you can—I’m pretty open!
 ⚡ Fun fact: I love teaching myself new skills and sharing that knowledge with others. Outside of tech, I enjoy reading, philosophy, and side projects that aren’t tech-related.
 
+
 AntheaBaldacchino/AntheaBaldacchino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
